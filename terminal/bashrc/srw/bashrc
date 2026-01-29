@@ -1,3 +1,5 @@
+# If you want to add this manually without install script.
+
 if [ -f "$HOME/.local/bin/srw.bash" ]; then
     source "$HOME/.local/bin/srw.bash"
     
