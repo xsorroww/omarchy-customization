@@ -13,7 +13,7 @@ url -sSL https://raw.githubusercontent.com/xsorroww/omarchy-customization/main/t
 chmod +x install-srw.sh
 ./install-srw.sh
 ```
-**or create an add everything yourself!**
+**or create and add everything yourself!**
 
 # Testing
 1. Once installed just run **srwfetch** or just **srw** for command usage.
