@@ -1,6 +1,7 @@
-# add this near the top of your bashrc file
 if [ -f "$HOME/.local/bin/srw.bash" ]; then
     source "$HOME/.local/bin/srw.bash"
     
-    alias clear='command clear && print_ascii'
+    alias clear='command clear && srwfetch'
 fi
+
+srwfetch
